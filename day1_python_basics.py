@@ -1,6 +1,6 @@
-# name = input("enter your name :")
-# age =int(input("Enter your age :"))
-# print(f"Your name is {name} and your age is {age}")
+name = input("enter your name :")
+age =int(input("Enter your age :"))
+print(f"Your name is {name} and your age is {age}")
 
 #factorization 
 n = 5
